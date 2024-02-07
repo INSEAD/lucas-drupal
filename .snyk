@@ -2,4 +2,4 @@
 
 exclude:
     global:
-            - vendor
+            - vendor/**
