@@ -1,0 +1,16 @@
+# Snyk (https://snyk.io) policy file
+
+exclude:
+    global:
+	- vendor
+	- vendors
+	- test     
+	- tests     
+	- Tests     
+	- spec     
+	- features     
+	- Fixtures     
+	- DataFixtures     
+	- var     
+	- selenium     
+	- web/resources/3rdparty
