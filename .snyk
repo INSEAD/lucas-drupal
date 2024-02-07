@@ -2,15 +2,5 @@
 
 exclude:
     global:
-	- vendor
-	- vendors
-	- test     
-	- tests     
-	- Tests     
-	- spec     
-	- features     
-	- Fixtures     
-	- DataFixtures     
-	- var     
-	- selenium     
-	- web/resources/3rdparty
+        # Exclude a single directory. For example, - src/lib
+            - vendor
